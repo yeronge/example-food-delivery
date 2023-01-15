@@ -57,5 +57,5 @@
 
 ![3_조리시작](https://user-images.githubusercontent.com/114388258/212527565-97ba1a34-be7f-43de-9adb-369de8c606a0.png)
 
-![3_취소불가능](https://user-images.githubusercontent.com/114388258/212527951-7601b844-8b3f-400d-9938-29bb7bce0f3e.png)
+![3_취소불가능](https://user-images.githubusercontent.com/114388258/212528823-c4349664-cda6-449f-ab80-a9d534fcabdb.png)
 
