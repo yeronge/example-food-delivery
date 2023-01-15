@@ -53,6 +53,7 @@
 
 ## 3. Compensation /Correlation
 
-![cc](https://user-images.githubusercontent.com/52773539/212525389-8657ac3e-356c-46e4-bca9-f2b7dd4238d9.png)
+![C C](https://user-images.githubusercontent.com/52773539/212526682-2dda30fd-0ff2-4038-b3b6-e91df2a74428.png)
+
 
 
