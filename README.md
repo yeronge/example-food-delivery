@@ -26,7 +26,6 @@
 
 # 분석/설계
 
-
 ## AS-IS 조직 (Horizontally-Aligned)
   ![image](https://user-images.githubusercontent.com/487999/79684144-2a893200-826a-11ea-9a01-79927d3a0107.png)
 
@@ -35,25 +34,31 @@
 
 
 ## Event Storming 결과
-
-![FoodDelivery](https://user-images.githubusercontent.com/52773539/212525279-ec92f82d-0917-42c8-86e3-bb220237b825.png)
+![MSA_food_delivery](https://user-images.githubusercontent.com/114388258/212527482-d6c83e7a-9bc5-4e73-b3b6-59a23bb65d4e.png)
 
 
 
 # 체크포인트
 
 ## 1. Saga(Pub/Sub)
-![Pub_Sub](https://user-images.githubusercontent.com/52773539/212523598-9ec37965-8597-4c31-977b-3883a94d239c.png)
 
+![주문넣기](https://user-images.githubusercontent.com/114388258/212527536-9bcd2c39-a657-43fd-809c-bd55d9d433d4.png)
+
+![주문코드](https://user-images.githubusercontent.com/114388258/212527512-e05e760b-9a69-4187-8482-cf0c6b9d4fe2.png)
+
+![레스토랑에 주문들어감](https://user-images.githubusercontent.com/114388258/212527544-7c4e166a-6c30-473a-9039-6f4e050dfdd3.png)
 
 ## 2. CQRS
 
-![CQRS](https://user-images.githubusercontent.com/52773539/212524848-ad412d35-eac5-491a-992e-4197953d7a0b.png)
+![CQRS_1](https://user-images.githubusercontent.com/114388258/212527548-a2727c20-f33c-4e59-b3eb-656cd895a95c.png)
 
+![CQRS_2](https://user-images.githubusercontent.com/114388258/212527551-f17d7bfe-056e-43fa-95c7-fa8dea4d25bc.png)
+
+![CQRS_3](https://user-images.githubusercontent.com/114388258/212527554-8c1997db-a3ec-47fc-a4cd-de204ff750bf.png)
 
 ## 3. Compensation /Correlation
 
-![C C](https://user-images.githubusercontent.com/52773539/212526682-2dda30fd-0ff2-4038-b3b6-e91df2a74428.png)
+![3_조리시작](https://user-images.githubusercontent.com/114388258/212527565-97ba1a34-be7f-43de-9adb-369de8c606a0.png)
 
-
+![3_취소불가능](https://user-images.githubusercontent.com/114388258/212527951-7601b844-8b3f-400d-9938-29bb7bce0f3e.png)
 
