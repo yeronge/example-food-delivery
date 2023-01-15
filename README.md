@@ -42,13 +42,10 @@
 
 ## 1. Saga(Pub/Sub)
 
-![주문넣기](https://user-images.githubusercontent.com/114388258/212527536-9bcd2c39-a657-43fd-809c-bd55d9d433d4.png)
-
-![주문코드](https://user-images.githubusercontent.com/114388258/212527512-e05e760b-9a69-4187-8482-cf0c6b9d4fe2.png)
-
-![레스토랑에 주문들어감](https://user-images.githubusercontent.com/114388258/212527544-7c4e166a-6c30-473a-9039-6f4e050dfdd3.png)
+![new](https://user-images.githubusercontent.com/114388258/212528685-ec73a22e-03f9-4a87-a3eb-897eb1730399.png)
 
 ## 2. CQRS
+![주문코드](https://user-images.githubusercontent.com/114388258/212527512-e05e760b-9a69-4187-8482-cf0c6b9d4fe2.png)
 
 ![CQRS_1](https://user-images.githubusercontent.com/114388258/212527548-a2727c20-f33c-4e59-b3eb-656cd895a95c.png)
 
