@@ -1,3 +1,6 @@
+![image](https://github.com/yeronge/example-food-delivery/assets/114388258/bca04b29-c4e6-483c-8a83-cc51351b2f67)
+
+
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 서비스 시나리오
